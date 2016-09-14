@@ -1,0 +1,43 @@
+CountMailIntent check my mailbox
+CountMailIntent check my mail
+CountMailIntent check my inbox
+CountMailIntent check my gmail
+CountMailIntent check my email 
+CountMailIntent check mailbox
+CountMailIntent check mail
+CountMailIntent check inbox
+CountMailIntent check gmail
+CountMailIntent check email
+CountMailIntent get my mailbox
+CountMailIntent get my mail
+CountMailIntent get my inbox
+CountMailIntent get my gmail
+CountMailIntent get my email
+CountMailIntent get mailbox
+CountMailIntent get mail
+CountMailIntent get inbox
+CountMailIntent get gmail
+CountMailIntent get email
+CountMailIntent mailbox
+CountMailIntent mail
+CountMailIntent inbox
+CountMailIntent gmail
+CountMailIntent email
+
+ListMessageIntent yes
+ListMessageIntent list
+ListMessageIntent yeah
+ListMessageIntent sure
+ListMessageIntent go ahead
+
+DontListMessageIntent no 
+
+ReadIntent read it
+ReadIntent read mail
+ReadIntent read message
+ReadIntent read
+ReadIntent please read
+ReadIntent read please
+
+DontReadIntent next
+DontReadIntent not now

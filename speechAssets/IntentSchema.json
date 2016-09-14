@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "CountMailIntent"
+    },
+    {
+      "intent": "ListMessageIntent"
+    },
+    {
+      "intent": "DontListMessageIntent"
+    },
+    {
+      "intent": "ReadIntent"
+    },
+    {
+      "intent": "DontReadIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
